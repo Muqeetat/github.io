@@ -1,0 +1,234 @@
+Muqeetat Portfolio
+
+# sidebar
+
+alt = Muqeetat Aderinto
+Muqeetat Aderinto
+Data Engineer
+
+Show Contacts
+
+Email
+aderintotolulope@gmail.com
+
+Phone
++2349022023568
+
+Birthday
+November 4, 2001
+
+Location
+Surulere, Lagos, NG
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I'm a Software Developer transitioning into Data Engineering, based in Lagos, Nigeria, with experience in data analytics and visualization. I enjoy solving complex problems by transforming raw data into actionable insights and building systems that drive decision-making.
+
+My focus is on creating efficient data pipelines and visualizations that are both functional and insightful. I bring a personal touch to every project, ensuring the solutions are tailored to meet specific needs. My aim is to simplify data processes, uncover valuable insights, and deliver impactful results. I have worked on projects that highlight my passion for data and sustainability.
+
+
+## service
+
+What i'm doing
+
+### What I Offer  
+
+alt = design icon
+Data Engineering 
+Designing and building efficient ETL pipelines, optimizing databases, and implementing scalable data solutions using modern frameworks and cloud platforms.  
+
+alt = Web development icon 
+Data Analytics  
+Uncovering trends through exploratory data analysis (EDA), creating insightful visualizations, and developing interactive dashboards for decision-making.  
+
+alt = camera icon 
+Power Platform Solutions  
+Creating custom business applications and workflows using Power Apps and Power Automate to enhance productivity.  
+
+alt = mobile app icon 
+Report Development 
+Crafting detailed, actionable reports using SQL, Report Builder, and Power BI to support data-driven strategies.  
+
+
+## testimonials
+
+Testimonials
+
+alt = Henry william
+#Henry william
+#Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous #cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+University of Ilorin
+2016 - 2021
+Bachelor's degree of Computer Science
+
+
+Experience
+
+Business Central Developer
+Jan 2023 — Present
+Automated inventory synchronization by integrating Shopify with Microsoft Business Central, improving inventory accuracy by 30%.
+Led the design of custom AL reports using Report Builder, meeting client requirements and enhancing operational transparency.
+Developed a payroll and expense management module, streamlining financial processes for cross-functional teams.
+Created an HR dashboard in Power BI, enabling real-time tracking of workforce metrics by connecting to Azure SQL Database.
+
+
+Software Developer Intern
+Mar 2022 — Dec 2022
+Enhanced Microsoft Dynamics Sales functionalities based on user feedback, increasing team productivity by 20%.
+Automated sales communication using Power Automate, saving 15 hours per week in manual effort.
+Customized RDLC and Word Layouts for seamless financial reporting.
+
+IT Support Intern
+Apr 2018 — Sept 2018
+Trained clients on the ICG FrontRest system for streamlined data integration and onboarding.
+Resolved technical issues, ensuring 99% system uptime and client satisfaction.
+
+
+My skills
+
+Python
+80%
+SQL
+70%
+Excel
+90%
+Power BI
+50%
+Power BI
+50%
+Power BI
+50%
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
